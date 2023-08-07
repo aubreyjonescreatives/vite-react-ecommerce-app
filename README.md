@@ -1,0 +1,1 @@
+## Welcome to a Vite React SQL and Node Full Stack App for an Ecommerce Site
